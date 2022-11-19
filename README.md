@@ -1,6 +1,6 @@
 # 🌤 WeatherApp
 
-<img width="1167" alt="Ekran Resmi 2022-11-19 02 38 28" src="https://user-images.githubusercontent.com/71128703/202822632-b6ea6b3c-4a01-4c2d-b344-1612a6e464f9.png">
+<img width="1166" alt="Ekran Resmi 2022-11-19 03 19 46" src="https://user-images.githubusercontent.com/71128703/202823731-ac785688-3c47-4b44-8b5e-d56f987eed4d.png">
 
 ### Create a simple weather app from scratch with SwiftUI.
 
